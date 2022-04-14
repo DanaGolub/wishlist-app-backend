@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ulid": "^2.3.0"
+  }
+}

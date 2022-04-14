@@ -1,0 +1,15 @@
+{
+  "resourceName": "WishlistBucket",
+  "policyUUID": "608b9386",
+  "bucketName": "wishlist7c2a396756634d4783f2020c61113443",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}

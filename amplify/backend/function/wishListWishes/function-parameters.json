@@ -1,0 +1,35 @@
+{
+  "lambdaLayers": [
+    {
+      "type": "ProjectLayer",
+      "resourceName": "wishlistWishlistDatabase",
+      "env": "dev",
+      "version": "Always choose latest version",
+      "isLatestVersionSelected": true
+    }
+  ],
+  "permissions": {
+    "auth": {
+      "wishlist8e46888f": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "storage": {
+      "WishlistBucket": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ],
+      "wishlistApp": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  }
+}
